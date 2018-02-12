@@ -1,6 +1,5 @@
-##Link Prediction in Mobile Social Network
+## Link Prediction in Mobile Social Network
 
--------------
 
 Implement some simple link prediction methods in mobile social network.
 
